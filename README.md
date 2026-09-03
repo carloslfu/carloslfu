@@ -9,8 +9,7 @@ Things of mine you can run:
   mixture-of-experts model on a 48 GB Mac, streamed from SSD. One Swift
   binary, and every number ships with its measurement.
 - [db.md](https://github.com/carloslfu/db.md): the open standard for
-  databases in plain markdown files. [Sevra](https://www.sevrahq.com) is its
-  managed home.
+  databases in plain markdown files.
 
 I help teams run open models on hardware they already own, and fix
 production agent workflows that fail in ways nobody can reproduce.
